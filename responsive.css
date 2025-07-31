@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+    .landing-text h1 {
+        font-size: 300%;
+    }
+    .landing-text h3 {
+        font-size: 120%;
+    }
+    .btn {
+        font-size: 90%;
+        padding: 10px 20px;
+    }
+    .padding {
+        padding: 40px 0;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    footer .col-sm-4 {
+        margin-bottom: 20px;
+    }
+}
